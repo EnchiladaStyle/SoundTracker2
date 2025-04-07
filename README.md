@@ -1,6 +1,6 @@
 # Sound Tracker
 
-<img src="pictures/soundTracker.gif" width=500>
+<img src="pictures/soundTracker.gif" width=350>
 
 # Overview
 
