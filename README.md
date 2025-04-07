@@ -1,6 +1,6 @@
 # Sound Tracker
 
-<img src="photos/Sin.png" width=200><img src="photos/AbsoluteValue.png" width=200><img src="photos/Tangent.png" width=200><img src="photos/Quadratic.png" width=200>
+<img src="pictures/soundTracker.gif" width=500>
 
 # Overview
 
@@ -21,6 +21,23 @@ This project was programmed in C and compiled into ARM32 Assembly.
 The microphones are MAX9814 from Electret
 
 the motors were SG90 9g Micro Servos from Beffkkip
+
+# Configuration
+Figure 1 shows the schamatic for the project: 
+
+<img src="pictures/soundTrackerDiagram.png" width=500>
+
+Figure 2 shows a screenshot of the stm32CubeIDE GUI used to configure the board for analog and PWM input and output: 
+
+<img src="pictures/iocGUI.png" width=500>
+
+Figure 3 shows the microcontroller and wiring
+
+<img src="pictures/nucleo.jpg" width=500>
+
+Figure 4 shows the complete device
+
+<img src="pictures/device.jpg" width=500>
 
 # Useful Links
 
